@@ -21,7 +21,7 @@ _Eager to expand the network while we all are learning._
 
 ---
 
-### 🏷️ Tagline
+### 🏷️ Tagline 
 > **"I don’t like to break rules, but I don’t like to do as I’m told."**
 
 ---
