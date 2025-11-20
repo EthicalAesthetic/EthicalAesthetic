@@ -6,9 +6,7 @@ _Eager to expand the network while we all are learning._
 ---
 
 ## 🎵 Favourite Project
-**AI Music Mood Mixer**  
-> *A smart tool that blends music selections based on your current mood using AI!*
-
+## NONE
 ---
 
 
