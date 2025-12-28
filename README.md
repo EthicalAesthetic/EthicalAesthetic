@@ -1,27 +1,4 @@
-## Hi there I'm Raghav Chadha 👋
-
-**Student at Ramanujan College (Delhi University)**  
-_Eager to expand the network while we all are learning._
-
----
-
-## 🎵 Favourite Project
-## NONE
----
-
-
-## 💡 Skills & Technologies
-
-- **Programming Languages:** Python, C++, JavaScript
-- **AI & Machine Learning:** AI/ML, Pandas, NumPy
-- **DevOps & Cloud:** Docker, AWS, GitHub, Git
-- **Hardware & Systems:** RISC, FPGA
-
----
-
-### 🏷️ Tagline 
-> **"I don’t like to break rules, but I don’t like to do as I’m told."**
-
+## Hello
 ---
 ## 📊 GitHub Stats
 
@@ -36,4 +13,4 @@ _Eager to expand the network while we all are learning._
 
 ---
 
-*Feel free to reach out if you want to collaborate, chat about tech, or share ideas!*
+*Feel free to reach out if you want to, chat about tech, or share ideas!*
