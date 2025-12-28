@@ -1,11 +1,6 @@
 ## Hello
----
-## 📊 GitHub Stats
 
-![EthicalAesthetic's GitHub stats](https://github-readme-stats.vercel.app/api?username=EthicalAesthetic&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthicalAesthetic&layout=compact&theme=radical)
-
----
+----
 
 ## 🌐 Connect with Me
 
